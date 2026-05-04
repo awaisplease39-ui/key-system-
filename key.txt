@@ -1,9 +1,11 @@
-{
-  "showDialog": false,
-  "latestVersionCode": 2,
-  "latestVersionName": "1.1",
-  "title": "UPDATE AVAILABLE",
-  "message": "Get the newest features and improvements.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/EpicModsChannel"
-}
+wellcome
+awais_king2929293
+awais_king2923939
+awais_king9929292
+awais_king0293929
+awais_king1001
+awais_king1002
+awais_king1003
+awais_king1004
+awais_king1005
+
